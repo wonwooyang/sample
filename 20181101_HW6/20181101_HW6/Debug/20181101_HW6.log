@@ -1,4 +1,7 @@
 ﻿  20180369.c
-c:\users\caucse\desktop\yyy\git\20181101_hw6\20181101_hw6\20180369.c(52): warning C4477: 'printf_s' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 5의 형식이 'char *'입니다.
-c:\users\caucse\desktop\yyy\git\20181101_hw6\20181101_hw6\20180369.c(94): warning C4716: 'sort': 값을 반환해야 합니다.
-  20181101_HW6.vcxproj -> C:\Users\caucse\Desktop\YYY\Git\20181101_HW6\Debug\20181101_HW6.exe
+c:\users\p\desktop\gits\sample\20181101_hw6\20181101_hw6\20180369.c(74): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\p\desktop\gits\sample\20181101_hw6\20181101_hw6\20180369.c(30): warning C4101: 'chk' :참조되지 않은 지역 변수입니다.
+c:\users\p\desktop\gits\sample\20181101_hw6\20181101_hw6\20180369.c(107): warning C4477: 'printf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 5의 형식이 'int'입니다.
+c:\users\p\desktop\gits\sample\20181101_hw6\20181101_hw6\20180369.c(108): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\p\desktop\gits\sample\20181101_hw6\20181101_hw6\20180369.c(142): warning C4716: 'sort': 값을 반환해야 합니다.
+  20181101_HW6.vcxproj -> C:\Users\P\Desktop\Gits\sample\20181101_HW6\Debug\20181101_HW6.exe
