@@ -1,6 +1,0 @@
-﻿  20180369.c
-c:\users\p\desktop\gits\sample\20181101_hw6\20181101_hw6\20180369.c(33): warning C4101: 'chk' :참조되지 않은 지역 변수입니다.
-c:\users\p\desktop\gits\sample\20181101_hw6\20181101_hw6\20180369.c(92): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-c:\users\p\desktop\gits\sample\20181101_hw6\20181101_hw6\20180369.c(100): warning C4716: 'prtList': 값을 반환해야 합니다.
-c:\users\p\desktop\gits\sample\20181101_hw6\20181101_hw6\20180369.c(142): warning C4716: 'sort': 값을 반환해야 합니다.
-  20181101_HW6.vcxproj -> C:\Users\P\Desktop\Gits\sample\20181101_HW6\Debug\20181101_HW6.exe
